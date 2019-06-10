@@ -1,6 +1,6 @@
 # Django Hierarchial User Management
 
-A task management app demonstrating use of hierarchial permissions
+A Task Management app (API) demonstrating use of hierarchial permissions
 
 ## Pre-requisites
 
@@ -15,6 +15,3 @@ A task management app demonstrating use of hierarchial permissions
   - cd django-hierarchial-user-mgmt
   - pip install -r requirements.txt
   - python manage.py runserver
-
-
-
